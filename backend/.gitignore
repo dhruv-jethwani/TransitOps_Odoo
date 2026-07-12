@@ -1,0 +1,9 @@
+.env
+.flaskenv
+instance/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+build/
+dist/
